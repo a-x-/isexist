@@ -1,0 +1,24 @@
+{
+  "name": "isexist",
+  "version": "0.1.0",
+  "description": "is file exist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/a-x-/isexist.git"
+  },
+  "keywords": [
+    "exists",
+    "is-exist",
+    "fs"
+  ],
+  "author": "invntrm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-x-/isexist/issues"
+  },
+  "homepage": "https://github.com/a-x-/isexist#readme"
+}
